@@ -42,3 +42,5 @@
 # other
 *.iws
 
+# intelij idea file
+property-management.iml
